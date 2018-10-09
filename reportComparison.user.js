@@ -4,7 +4,7 @@
 // @version      0.0.1
 // @description  Check for updated salesforce course records
 // @author       Matt Thomson <mthomson.lee@gmail.com>
-// @match        https://fiuonline.my.salesforce.com/00O0G000007BZqR
+// @match        https://fiuonline.my.salesforce.com/00O0G000006thxNUAQ
 // @grant        none
 // ==/UserScript==
 
